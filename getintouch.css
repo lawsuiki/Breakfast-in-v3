@@ -1,0 +1,107 @@
+body{
+  margin:0;
+}
+
+.headercontainer {
+  background-image: url("https://ireallylikefood.com/wp-content/uploads/2020/03/easy-breakfast-sides-1200x800.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 10;
+  margin-top: 20px;
+}
+
+h1 {
+  font-family: Rubik Mono One;
+  font-size: 40px;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+}
+
+.get-in-touch-content{
+  display: flex;
+  justify-content: space-between;
+  margin: 40px;;
+}
+
+.firstparagraph {
+  padding: 40px;
+  width: 50%;
+  font-size: 22px;
+  font-family: Montserrat;
+}
+
+.secondparagraph {
+  background-color: #FFA10A;
+  text-align: center;
+  padding: 10px;
+}
+
+.Enquirybox {
+  padding: 50px;
+  width: 50%;
+  background-color: #FFF6EF;
+}
+
+.text-line {
+  background-color: transparent;
+  color: black;
+  outline: none;
+  outline-style: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: solid #FFA10A 2px;
+  width: 100%;
+}
+
+.messagebox {
+  border: solid #FFA10A 2px;
+  width: 100%;
+  background-color: transparent;
+}
+
+h2 {
+  font-family: Rubik Mono One;
+  font-size: 28px;
+}
+
+h3 {
+  font-family: Montserrat;
+  font-size: 18px;
+}
+
+p, label, input{
+  font-family: Montserrat;
+  font-size: 22px;
+  line-height: 135%;
+}
+
+label {
+  font-size: 18px !important;
+}
+input{
+  margin-bottom: 15px;
+}
+
+button {
+  font-family: Montserrat;
+  background-color: #FFA10A;
+}
+
+footer {
+  text-align: right;
+  color: white;
+  background-color: #FFA10A;
+  padding-right: 1%;
+}
+
+footer img {
+  display: inline-block;
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  border: none;
+  padding: 0;
+  margin: 12px;
+}
